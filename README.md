@@ -20,8 +20,7 @@ Creative Commons的许可证可以说是很灵活的，它有很多个版本，�
 >
 > – Thomas Jefferson
 
-对于本项目、或者我们售卖的咖啡豆当中发现的任何问题，都可以在[这里](https://gitee.com/os_coffee/product/issues)提交issue。
-
+对于本项目、或者我们售卖的咖啡豆当中发现的任何问题，都可以在[这里](https://github.com/OSCoffee/product/issues)提交issue。
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.zh
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png

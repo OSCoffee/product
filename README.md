@@ -26,7 +26,7 @@
 - 关于生豆的烘焙，以及设备的信息，放在[OSCoffee/roastery](https://os_coffee.gitee.io/roastery/#/).
 - [查看OSC-开源咖啡的所有项目](https://www.gitee.com/os_coffee)
 
-如果这种信息的组织方式给您带来任何不便，我们感到非常抱歉。如果您感到不便或者有更好的建议，欢迎随时[提交issue](https://www.gitee.com/os_coffee/product/issues)或[在项目下方留下评论](https://www.gitee.com/os_coffee/product).
+如果这种信息的组织方式给您带来任何不便，我们感到非常抱歉。如果您感到不便或者有更好的建议，欢迎随时[提交issue](https://www.gitee.com/os_coffee/product/issues)或[在项目下方留下评论](https://www.gitee.com/os_coffee/product#tree_comm_title).
 
 ## 如何Fork
 

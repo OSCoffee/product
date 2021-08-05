@@ -4,8 +4,6 @@
 
 该项目采用 [Creative Commons Attribution 4.0 International License][cc-by] 许可证.
 
-[![CC BY 4.0][cc-by-image]][cc-by]
-
 ## 我知道什么是咖啡，但什么是“开源咖啡”？
 
 如果你喜欢咖啡，并且渴望挖掘一杯咖啡背后更多的信息，我们希望开源咖啡能够为你提供一个不错的选择。
@@ -47,6 +45,8 @@
 ## 什么是Creative Commons许可证？
 
 在开源社区里，Creative Commons的许可证可以说是很灵活的，它有很多个版本，而我们选择的这个 [Attribution 4.0 International License][cc-by] 则是自由度最高的版本。您可以随意参考和使用本项目中任何一种咖啡生豆的烘焙资料或者多种豆子的拼配配方，来开发属于自己的产品，不管是盈利还是非盈利的。如果我们提供以及分享的信息或数据对您的事业或商业有帮助，我们会因此感到高兴。除此之外，我们更希望看到的是，您愿意选择继续沿用这个开源协议或其他的开源协议并公开分享部分或全部有帮助的咖啡信息（虽然这个协议本身并没有强制要求你这么做），来更好的帮助其他人。
+
+[![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.zh
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png

@@ -42,7 +42,7 @@
 
 <!-- ![img|200x272](res/IMG_1057.png) -->
 
-<img src="res/IMG_1057.png" width="10%" height="10%">
+<img src="res/IMG_1057.png" width="20%" height="20%">
 
 ## 什么是Creative Commons许可证？
 

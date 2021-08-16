@@ -20,7 +20,7 @@
 
 当然，与其他的开源项目一样，你也可以通过各种方式回馈这个项目--[提交issue](https://www.gitee.com/os_coffee/product/issues), [Fork](https://www.gitee.com/os_coffee/product), [提交PR](https://gitee.com/os_coffee/product/pulls), [在项目页面下方提交评论](https://gitee.com/os_coffee/product#editor_comment), 或是[Donate](#如何资助).
 
-我们相信，只有你，咖啡的最终享用者，才能做出**最美味的咖啡**。
+我们相信，只有你，每一位咖啡的最终享用者，才能做出**最美味的咖啡**。
 
 ## 这里的开源信息是如何维护的?
 
